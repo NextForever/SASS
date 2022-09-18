@@ -1,0 +1,11 @@
+$color-red: #f00;
+$color-green: rgb(17, 72, 30);
+$color-blue: rgb(66, 85, 228);
+$color-gray: rgb(135, 135, 135);
+
+.test {
+  color: $color-gray;
+}
+.test2 {
+  color: $color-blue;
+}
